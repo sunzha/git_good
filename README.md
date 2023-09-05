@@ -6,3 +6,4 @@ test main branch protection
 ![Alt text](media/frog.jpg)
 ![Pensteve](media/pensteve.png)
 ![spaghetti](media/IMG_4289.jpeg)
+![Alt text](media/hide_the_pain_harold.jpg)
